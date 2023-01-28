@@ -83,5 +83,5 @@ Outlet -- "/places/delete/:id" --> deleteAction
 
 ### Link to Project
 
-[Backend Deployed Project Page](https://road-trip-buddy-backend.onrender.com)
+[Backend Deployed Project Page](https://road-trip-buddy-backend.onrender.com)  
 [Frontend Deployed Project Page](https://heartfelt-dasik-3376da.netlify.app/)
