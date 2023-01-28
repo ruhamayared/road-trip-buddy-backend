@@ -1,6 +1,6 @@
 # Road Trip Buddy
 
-##### This app lets users keep track of their destinations as they emark on a road trip. Users will be able to add a name and a link for their destinations on their journey. Users will be able to see the list of places they will visit, click on one and view an individual destination, delete and update that destination as well as check it off as visited. The words places and destinations are interchangeable.
+##### This app lets users keep track of their destinations as they embark on a road trip. Users will be able to add a name and a link for their destinations on their journey. Users will be able to see the list of places they will visit, click on one and view an individual destination, delete and update that destination as well as check it off as visited. The words places and destinations are interchangeable.
 
 ##### Group members:
 
@@ -83,4 +83,5 @@ Outlet -- "/places/delete/:id" --> deleteAction
 
 ### Link to Project
 
-[Deployed Project Page](https://project-3-frontend-uxxk.onrender.com)
+[Backend Deployed Project Page](https://road-trip-buddy-backend.onrender.com)
+[Frontend Deployed Project Page](https://heartfelt-dasik-3376da.netlify.app/)
